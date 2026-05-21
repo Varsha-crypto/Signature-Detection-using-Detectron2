@@ -5,7 +5,7 @@
 Developed a deep learning-based document signature detection system using **Detectron2 (PyTorch)** for object localization and computer vision inference tasks.
 The model was trained on a custom annotated dataset to accurately detect and localize signature regions in document images.
 
----
+
 
 ## Features
 
@@ -16,7 +16,7 @@ The model was trained on a custom annotated dataset to accurately detect and loc
 * End-to-end training and inference pipeline
 * Custom dataset annotation using Roboflow
 
----
+
 
 ## Tech Stack
 
@@ -27,7 +27,7 @@ The model was trained on a custom annotated dataset to accurately detect and loc
 * Roboflow
 * CUDA GPU Acceleration
 
----
+
 
 ## Workflow
 
@@ -39,7 +39,7 @@ The model was trained on a custom annotated dataset to accurately detect and loc
 6. Inference on unseen document images
 7. Prediction visualization
 
----
+
 
 ## Model Training
 
@@ -48,7 +48,7 @@ The model was trained on a custom annotated dataset to accurately detect and loc
 * Used custom annotated datasets for training
 * Enabled GPU acceleration using CUDA for faster convergence
 
----
+
 
 ## Inference Pipeline
 
@@ -59,7 +59,7 @@ Implemented an inference workflow to:
 * Visualize detections for validation
 * Improve localization accuracy
 
----
+
 
 ## Key Contributions
 
@@ -69,7 +69,7 @@ Implemented an inference workflow to:
 * Implemented bounding box visualization for validation
 * Optimized training performance using CUDA-enabled GPUs
 
----
+
 
 ## Future Improvements
 
@@ -79,7 +79,7 @@ Implemented an inference workflow to:
 * Integration with OCR pipelines
 * Improved detection on low-quality scanned documents
 
----
+
 
 ## Use Cases
 
